@@ -1,3 +1,6 @@
 **minicompiler**
 ## currently learning to build a simple compiler 
-<img src="https://github-readme-stats.vercel.app/api?username=CalanPereira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+## This Project is for building a compiler for Python using Java
+> Lexer
+> Built a Lexer in Java 
+> Breaks the Code into small Tokens
