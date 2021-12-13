@@ -8,3 +8,5 @@
 > Built a Lexer in Java 
 
 > Breaks the Code into small Tokens
+
+>and also implemented parser
